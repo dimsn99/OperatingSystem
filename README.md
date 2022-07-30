@@ -47,3 +47,11 @@ An operating system is a software that manages computer hardware. The hardware m
 - I/O Operations
 - Communication
 
+### OS Structure
+- Process & Thread
+- CPU Scheduling
+- Process Synchronization
+- Deadlock
+- Memory Management (+ Virtual Memory)
+- File System
+- Disk Management, IO Systems
